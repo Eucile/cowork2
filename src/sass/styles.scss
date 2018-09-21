@@ -190,6 +190,16 @@ main {
   }
 }
 
+//AMENITIES PAGE STUFF
+.amenities-bg {
+  background: black;
+}
+.amenities-image {
+    img {
+      width:100%;
+    }
+}
+
 footer {
   grid-area: footer;
   height: 80px;
