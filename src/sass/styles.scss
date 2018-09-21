@@ -275,7 +275,18 @@ footer {
   }
 }
 
-
+.white-footer {
+  background: white;
+  color: darken($grayTheme, 40);
+  box-shadow: 10px 10px 5px $grayTheme;
+  margin: 10px auto 30px auto;
+  border-top: $grayTheme;
+  .icons {
+    i {
+      color: darken($grayTheme, 40);
+    }
+  }
+}
 
 //mobile layout
 
