@@ -21,13 +21,14 @@ header, footer {
   display: flex;
   justify-content: space-between;
   flex-flow: column wrap;
-  height: 60px;
+  height: 63px;
   #menu {
     width: 2em;
-    padding: 17px 0 0 20px;
+    padding: 20px 0 0 20px;
   }
   #logo {
     display: block;
+    padding-top: 5px;
   }
   ul {
     display: flex;
@@ -196,7 +197,7 @@ main {
 }
 .amenities-image {
     img {
-      width:100%;
+      width: 100%;
     }
 }
 
@@ -228,7 +229,6 @@ main {
   display: flex;
   justify-content: center;
   margin: 0 auto;
-  width: 50%;
   img {
     margin: 3em 0;
     height: 3em;
@@ -237,19 +237,18 @@ main {
 
 .amenities-card {
   display: flex;
+  flex-flow: row wrap;
   justify-content: center;
+  align-items: center;
+  margin: 0 auto 30px auto;
   width: 50%;
-  margin: 0 auto;
   .amenities-card-content {
-
     img {
       width: 12em;
-      padding: 3em;
+      padding: 2.5em;
     }
   }
 }
-
-///
 
 
 footer {
@@ -261,7 +260,7 @@ footer {
   justify-content: space-around;
   width: 100%;
   background: rgba(0, 0, 0, .7);
-  // border-top: solid 1px $grayTheme;
+  border-top: solid 1px $blueTheme;
   p {
     display: none;
   }
