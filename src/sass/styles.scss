@@ -115,8 +115,6 @@ main {
   }
 }
 
-
-//AMENITIES PAGE STUFF
 .amenities-bg {
   background: black;
 }
@@ -131,7 +129,7 @@ main {
   justify-content: center;
   margin: 0 auto;
   img {
-    margin: 3em 0;
+    margin: 2em auto;
     height: 3em;
   }
 }
@@ -146,7 +144,7 @@ main {
   .amenities-card-content {
     img {
       width: 12em;
-      padding: 2.5em;
+      padding: 3.5em;
     }
   }
 }
