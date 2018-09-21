@@ -51,7 +51,6 @@ header, footer {
   }
 }
 
-
 .search {
   display: flex;
   justify-content: flex-end;
@@ -69,44 +68,6 @@ header, footer {
   height: 15px;
   margin-right: 10px;
 }
-
-// .card {
-//   display: grid;
-//   border-top: solid 1px $grayTheme;
-//   grid-template-columns: 1fr 1fr;
-//   grid-template-rows: min-content auto;
-//   grid-template-areas: "img title"
-//   "img card-content";
-//   grid-row-gap: 35px;
-//   padding: 7em;
-//   margin-bottom: 1.5em;
-//   img {
-//     max-width: 100%;
-//     grid-area: img;
-//   }
-//   #pdx {
-//     width: 10em;
-//   }
-//   .card-title {
-//     grid-area: title;
-//     margin: 0;
-//   }
-//   .card-content {
-//     padding-left: 10px;
-//     a {
-//       color: black;
-//       font-weight: bold;
-//       text-decoration: none;
-//       &:hover {
-//         opacity: .5;
-//       }
-//     }
-//   }
-// }
-
-
-//compare
-
 
 .card {
   display: grid;
@@ -142,46 +103,6 @@ header, footer {
   }
 }
 
-// .card {
-//   display: grid;
-//   border-top: solid 1px $grayTheme;
-//   grid-template-columns: 1fr;
-//   grid-template-rows: 1fr;
-//   grid-template-areas: "img"
-//   "card-content";
-//   grid-row-gap: 35px;
-//   padding: 1em;
-//   margin-bottom: 1.5em;
-//   img {
-//     max-width: 100%;
-//     grid-area: img;
-//   }
-//   .card-title {
-//     grid-area: title;
-//     margin: 0;
-//   }
-//   .card-content {
-//     padding: 0 10px;
-//   }
-// }
-// header {
-//   li {
-//     display: none;
-//   }
-// }
-// footer {
-//   p {
-//     display: none;
-//   }
-// }
-
-header {
-  grid-area: header;
-  background: rgba(0, 0, 0, .7);
-  position: fixed;
-  width: 100%;
-}
-
 main {
   grid-area: main;
   .image {
@@ -190,6 +111,7 @@ main {
     }
   }
 }
+
 
 //AMENITIES PAGE STUFF
 .amenities-bg {
@@ -200,30 +122,6 @@ main {
       width: 100%;
     }
 }
-
-// .amenities-card {
-//   display: grid;
-//   border-top: solid 1px $grayTheme;
-//   grid-template-columns: 1fr 1fr;
-//   grid-template-rows: 1fr;
-//   grid-template-areas: "amenities-card-title"
-//   "amenities-card-content";
-//   grid-row-gap: 35px;
-//   padding: 1em;
-//   margin-bottom: 1.5em;
-//   img {
-//     width: 10em;
-//   }
-//   .amenities-card-title {
-//     color: white;
-//     text-decoration: underline;
-//     text-align: center;
-//   }
-// }
-
-//flex try
-
-
 
 .amenities-card-title {
   display: flex;
@@ -250,7 +148,12 @@ main {
   }
 }
 
-
+header {
+  grid-area: header;
+  background: rgba(0, 0, 0, .7);
+  position: fixed;
+  width: 100%;
+}
 footer {
   grid-area: footer;
   height: 80px;
@@ -278,7 +181,6 @@ footer {
   }
 }
 
-
 .white-footer {
   background: white;
   color: darken($grayTheme, 40);
@@ -295,90 +197,8 @@ footer {
   }
 }
 
-//mobile layout
 
-// @media screen and (min-width: 100px) {
-
-  // body {
-  //   margin: 0;
-  //   font-family: arial;
-  //   display: grid;
-  //   grid-template-rows: 5em auto 5em;
-  //   grid-template-columns: 1fr;
-  //   grid-template-areas: "header"
-  //   "main"
-  //   "footer"
-  // }
-  // .card {
-  //   display: grid;
-  //   border-top: solid 1px $grayTheme;
-  //   grid-template-columns: 1fr;
-  //   grid-template-rows: 1fr;
-  //   grid-template-areas: "img"
-  //   "card-content";
-  //   grid-row-gap: 35px;
-  //   padding: 1em;
-  //   margin-bottom: 1.5em;
-  //   img {
-  //     max-width: 100%;
-  //     grid-area: img;
-  //   }
-  //   .card-title {
-  //     grid-area: title;
-  //     margin: 0;
-  //   }
-  //   .card-content {
-  //     padding: 0 10px;
-  //   }
-  // }
-
-
-  // header {
-  //   li {
-  //     display: none;
-  //   }
-  // }
-  // footer {
-  //   p {
-  //     display: none;
-  //   }
-  // }
-// }
-
-
-// mobile  single column
-// @media screen and (max-width: 900px) {
-//   .card {
-//     display: grid;
-//     border-top: solid 1px $grayTheme;
-//     grid-template-columns: 1fr;
-//     grid-template-rows: 1fr;
-//     grid-template-areas: "img"
-//     "card-content";
-//     grid-row-gap: 35px;
-//     padding: 1em;
-//     margin-bottom: 1.5em;
-//     img {
-//       max-width: 100%;
-//       grid-area: img;
-//     }
-//     .card-title {
-//       grid-area: title;
-//       margin: 0;
-//     }
-//     .card-content {
-//       padding: 0 10px;
-//     }
-//   }
-//   header {
-//     li {
-//       display: none;
-//     }
-//   }
-// }
-
-
-// switch to desktop
+// media switch to desktop
 
 @media screen and (min-width: 900px) {
   header {
@@ -434,7 +254,7 @@ footer {
           width: 25em;
           text-align: justify;
           }
-        p:after {/* this adds an extra invisible line, so any other line is justified */
+        p:after {
           content:'';
           display: inline-block;
           width: 100%;
