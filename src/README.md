@@ -53,8 +53,12 @@ This website is designed for a new company hoping to attract clients and organiz
 Following are some screenshots of my coded work, fashioned off my sketch files.
 
 #### Mobile Version
-![mobile user interface](assets/images/mobiless1.png)<!-- .element height="50%" width="50%" -->
-![mobile user interface](assets/images/mobiless2.png)
+
+1             |  2
+:-------------------------:|:-------------------------:
+![mobile user interface](assets/images/mobiless1.png) | ![mobile user interface](assets/images/mobiless2.png)
+
+
 
 
 #### Desktop Version
