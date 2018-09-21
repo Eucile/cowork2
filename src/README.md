@@ -53,15 +53,15 @@ This website is designed for a new company hoping to attract clients and organiz
 Following are some screenshots of my coded work, fashioned off my sketch files.
 
 #### Mobile Version
-
-
-### Tablet Version
+![mobile user interface](assets/images/mobiless1.png)
+![mobile user interface](assets/images/mobiless2.png)
 
 
 #### Desktop Version
 
-
-## Pre-Sketches
+![desktop user interface](assets/images/desktopss1.png)
+![desktop user interface](assets/images/desktopss2.png)
+![desktop user interface](assets/images/desktopss3.png)
 
 
 ## Roadmap
