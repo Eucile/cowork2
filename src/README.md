@@ -54,7 +54,7 @@ Following are some screenshots of my coded work, fashioned off my sketch files.
 
 #### Mobile Version
 
-1             |  2
+About Us Section            |  Amenities Section
 :-------------------------:|:-------------------------:
 ![mobile user interface](assets/images/mobiless1.png) | ![mobile user interface](assets/images/mobiless2.png)
 
@@ -86,8 +86,13 @@ All coded pages are responsive thanks to css grid and flexbox. All have been bui
 
 ### Setup Instructions
 
+First, make sure you have node package manager installed. Then:
 
-
+'' $ git clone https://github.com/Eucile/cowork2 ''
+'' $ cd cowork2 ''
+'' $ atom . ''
+'' $ npm init -y ''
+'' $ npm run start ''
 
 
 ### License
