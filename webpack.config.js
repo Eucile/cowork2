@@ -16,14 +16,36 @@ module.exports = {
 
   module: {
     rules: [
+
       {
         test: /\.scss$/,
         use: [
-            'style-loader',
-            'css-loader',
-            'sass-loader'
+            "style-loader",
+            "css-loader",
+            "sass-loader"
         ]
-      }
+      },
+
+      {
+        test: /\.(gif|png|jpe?g)$/,
+        use: [
+          {
+            loader: 'file-loader',
+            options: {
+              name: '[name].[ext]',
+              outputPath: 'assets/images/'
+            }
+          }
+        ]
+      },
+
+      {
+        test:/\.html$/,
+        use: [
+          'html-loader'
+        ]
+      },
+
     ]
   },
 
@@ -31,8 +53,9 @@ module.exports = {
     new HtmlWebpackPlugin({
       inject: 'body',
       template: './src/index.html',
-      filename: 'index.html'
+      filename: 'index.html',
     })
+
   ]
 
 };
