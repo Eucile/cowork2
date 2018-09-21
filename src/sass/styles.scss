@@ -200,6 +200,48 @@ main {
     }
 }
 
+// .amenities-card {
+//   display: grid;
+//   border-top: solid 1px $grayTheme;
+//   grid-template-columns: 1fr 1fr;
+//   grid-template-rows: 1fr;
+//   grid-template-areas: "amenities-card-title"
+//   "amenities-card-content";
+//   grid-row-gap: 35px;
+//   padding: 1em;
+//   margin-bottom: 1.5em;
+//   img {
+//     width: 10em;
+//   }
+//   .amenities-card-title {
+//     color: white;
+//     text-decoration: underline;
+//     text-align: center;
+//   }
+// }
+
+//flex try
+
+.amenities-card {
+  display: flex;
+  justify-content: center;
+  width: 50%;
+  margin: 0 auto;
+  img {
+    width: 12em;
+    padding: 3em;
+  }
+  .amenities-card-title {
+    margin: 0 auto;
+    img {
+      width: 10em;
+    }
+  }
+}
+
+///
+
+
 footer {
   grid-area: footer;
   height: 80px;
