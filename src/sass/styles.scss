@@ -86,6 +86,9 @@ header, footer {
   #pdx {
       width: 10em;
     }
+  #deco {
+    width: 100%;
+  }
   .card-title {
     grid-area: title;
     margin: 0;
@@ -162,16 +165,18 @@ footer {
   padding: 0 50px 0 10px;;
   justify-content: space-around;
   width: 100%;
+  padding: 1em 0;
   background: rgba(0, 0, 0, .7);
   border-top: solid 1px $blueTheme;
+  border-top-width: thin;
   p {
     display: none;
   }
   .icons {
       i{
         font-size: 25px;
-        color: $grayTheme;
-        margin-top: 1em;
+        color: darken($grayTheme, 10);
+        margin-top: .5em;
         margin-right: .5em;
         max-width: 100%;
         &:hover {
