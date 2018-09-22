@@ -56,17 +56,17 @@ Following are some screenshots of my coded work, fashioned off my sketch files.
 
 Mobile Version             |  
 :-------------------------:|:-------------------------:
-![mobile user interface](assets/images/mobilesstype.png) | ![mobile user interface](assets/images/mobilesstype2.png)
+![mobile user interface](src/assets/images/mobilesstype.png) | ![mobile user interface](src/assets/images/mobilesstype2.png)
 
 
 ## Desktop Version
 
 
-![desktop user interface](assets/images/desktop1.png)
-![desktop user interface](assets/images/desktop2.png)
+![desktop user interface](src/assets/images/desktop1.png)
+![desktop user interface](src/assets/images/desktop2.png)
 
-![desktop user interface](assets/images/desktop3.png)
-![desktop user interface](assets/images/amenitiesupdated.png)
+![desktop user interface](src/assets/images/desktop3.png)
+![desktop user interface](src/assets/images/amenitiesupdated.png)
 
 
 ## Roadmap
