@@ -3,7 +3,7 @@ $grayTheme: #e1e1e1;
 
 body {
   margin: 0;
-  font-family: arial;
+  font-family: 'Nunito Sans', sans-serif;
   display: grid;
   grid-template-rows: 5em auto 5em;
   grid-template-columns: 1fr;
@@ -239,7 +239,6 @@ footer {
       "img card-content";
       grid-row-gap: 35px;
       padding: 7em;
-      margin-bottom: 1.5em;
       img {
         max-width: 100%;
         grid-area: img;
