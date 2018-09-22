@@ -61,10 +61,9 @@ Mobile Version             |  ...
 
 #### Desktop Version
 
-:-------------------------:|:-------------------------:
+
 ![desktop user interface](assets/images/desktop1.png) | ![desktop user interface](assets/images/desktop2.png)
 
-:-------------------------:|:-------------------------:
 ![desktop user interface](assets/images/desktop3.png) | ![desktop user interface](assets/images/desktop4.png)
 
 
