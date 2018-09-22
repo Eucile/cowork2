@@ -63,7 +63,7 @@ About Us Section            |  Amenities Section
 
 #### Desktop Version
 
-![desktop user interface](assets/images/desktopss1.png)
+![desktop user interface](assets/images/desktopss4.png)
 ![desktop user interface](assets/images/desktopss2.png)
 ![desktop user interface](assets/images/desktopss3.png)
 
