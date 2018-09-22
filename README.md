@@ -87,7 +87,7 @@ All coded pages are responsive thanks to css grid and flexbox. All have been bui
 
 ### Setup Instructions
 
-First, make sure you have node package manager installed. Then:
+First, make sure you have node package manager installed. Check out https://www.npmjs.com/get-npm for information on that. Then:
 
 ``$ git clone https://github.com/Eucile/cowork2``
 
