@@ -58,13 +58,17 @@ Mobile Version             |  ...
 :-------------------------:|:-------------------------:
 ![mobile user interface](assets/images/mobilesstype.png) | ![mobile user interface](assets/images/mobilesstype2.png)
 
+Mobile Version             |  ...
+:-------------------------:|:-------------------------:
+![mobile user interface](assets/images/mobilesstype.png) | ![mobile user interface](assets/images/mobilesstype2.png)
+
 
 #### Desktop Version
 
 
 ![desktop user interface](assets/images/desktop1.png) | ![desktop user interface](assets/images/desktop2.png)
 
-![desktop user interface](assets/images/desktop3.png) | ![desktop user interface](assets/images/desktop4.png)
+![desktop user interface](assets/images/desktop3.png) | ![desktop user interface](assets/images/amenitiesupdated.png)
 
 
 ## Roadmap

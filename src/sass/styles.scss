@@ -138,15 +138,24 @@ main {
   display: flex;
   flex-flow: row wrap;
   justify-content: center;
-  align-items: center;
-  margin: 0 auto 30px auto;
-  width: 50%;
+  margin-left: 2em;
+  width: 100%;
   .amenities-card-content {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
     img {
-      width: 12em;
-      padding: 3.5em;
+      margin: 4em;
+      max-width: 140px;
     }
   }
+}
+
+#coffee {
+  width: 6.5em;
+  padding-left: 20px;
 }
 
 header {
@@ -199,16 +208,6 @@ footer {
       }
     }
   }
-}
-#print {
-  margin-right: 1em;
-  margin-top: 4em;
-}
-#coffee {
-  margin-bottom: 2em;
-}
-#desk {
-  margin-top: 3em;
 }
 
 // media switch to desktop
