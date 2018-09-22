@@ -191,6 +191,7 @@ footer {
   margin: 10px auto 30px auto;
   border-top: $grayTheme;
   .icons {
+    margin-top: 1em;
     i {
       color: darken($grayTheme, 40);
       &:hover {
@@ -199,7 +200,16 @@ footer {
     }
   }
 }
-
+#print {
+  margin-right: 1em;
+  margin-top: 4em;
+}
+#coffee {
+  margin-bottom: 2em;
+}
+#desk {
+  margin-top: 3em;
+}
 
 // media switch to desktop
 

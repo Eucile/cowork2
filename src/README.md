@@ -54,18 +54,18 @@ Following are some screenshots of my coded work, fashioned off my sketch files.
 
 #### Mobile Version
 
-About Us Section            |  Amenities Section
+Mobile Version             |  ...
 :-------------------------:|:-------------------------:
-![mobile user interface](assets/images/mobiless1.png) | ![mobile user interface](assets/images/mobiless2.png)
-
-
+![mobile user interface](assets/images/mobilesstype.png) | ![mobile user interface](assets/images/mobilesstype2.png)
 
 
 #### Desktop Version
 
-![desktop user interface](assets/images/desktopss4.png)
-![desktop user interface](assets/images/desktopss2.png)
-![desktop user interface](assets/images/desktopss3.png)
+:-------------------------:|:-------------------------:
+![desktop user interface](assets/images/desktop1.png) | ![desktop user interface](assets/images/desktop2.png)
+
+:-------------------------:|:-------------------------:
+![desktop user interface](assets/images/desktop3.png) | ![desktop user interface](assets/images/desktop4.png)
 
 
 ## Roadmap
