@@ -54,9 +54,9 @@ Following are some screenshots of my coded work, fashioned off my sketch files.
 
 ## Mobile Version
 
-Mobile Version             |  
+Mobile Version             |  ...
 :-------------------------:|:-------------------------:
-![mobile user interface](src/assets/images/mobilesstype.png) | ![mobile user interface](src/assets/images/mobilesstype2.png)
+![mobile user interface](src/assets/images/mobilesstype.png)  |  ![mobile user interface](src/assets/images/mobilesstype2.png)
 
 
 ## Desktop Version
