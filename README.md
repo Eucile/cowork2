@@ -52,19 +52,21 @@ This website is designed for a new company hoping to attract clients and organiz
 
 Following are some screenshots of my coded work, fashioned off my sketch files.
 
-#### Mobile Version
+## Mobile Version
 
-Mobile Version             |  ...
+Mobile Version             |  
 :-------------------------:|:-------------------------:
 ![mobile user interface](assets/images/mobilesstype.png) | ![mobile user interface](assets/images/mobilesstype2.png)
 
 
-#### Desktop Version
+## Desktop Version
 
 
-![desktop user interface](assets/images/desktop1.png) | ![desktop user interface](assets/images/desktop2.png)
+![desktop user interface](assets/images/desktop1.png)
+![desktop user interface](assets/images/desktop2.png)
 
-![desktop user interface](assets/images/desktop3.png) | ![desktop user interface](assets/images/amenitiesupdated.png)
+![desktop user interface](assets/images/desktop3.png)
+![desktop user interface](assets/images/amenitiesupdated.png)
 
 
 ## Roadmap
