@@ -67,7 +67,7 @@ header, footer {
     border: 0px;
     padding: 0 15px;
     border-radius: 15px;
-    background: lighten($blueTheme, 6);
+    background: lighten($grayTheme, 7);
     font-family: 'Nunito Sans', sans-serif;
     &:focus {
       outline: none;
