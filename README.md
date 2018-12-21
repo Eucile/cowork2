@@ -65,9 +65,6 @@ Mobile Version             |  ...
 ![desktop user interface](src/assets/images/desktop1.png)
 ![desktop user interface](src/assets/images/desktop2.png)
 
-![desktop user interface](src/assets/images/desktop3.png)
-![desktop user interface](src/assets/images/amenitiesupdated.png)
-
 
 ## Roadmap
 
